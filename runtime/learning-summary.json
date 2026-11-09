@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "total_learnings_all_skills": 0,
+  "by_skill": {},
+  "learning_categories": {
+    "patterns_and_best_practices": 0,
+    "common_pitfalls": 0,
+    "performance_optimizations": 0,
+    "security_learnings": 0,
+    "integration_patterns": 0,
+    "testing_strategies": 0,
+    "architecture_decisions": 0,
+    "tooling_and_development": 0
+  },
+  "impact_distribution": {
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "last_updated": null
+}

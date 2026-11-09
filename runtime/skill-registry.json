@@ -1,0 +1,205 @@
+{
+  "version": "1.0.0",
+  "total_skills": 18,
+  "last_updated": "2026-08-16",
+  "skills": [
+    {
+      "id": "orchestrator",
+      "name": "Orchestrator",
+      "project": "cross-project",
+      "domain": "orchestration",
+      "model": "opus",
+      "file": ".claude/skills/orchestrator/SKILL.md",
+      "capabilities": ["routing", "coordination", "task-management", "spec-approval", "learning-aggregation"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "td-commerce-mobile",
+      "name": "td-commerce Mobile",
+      "project": "td-commerce",
+      "domain": "mobile",
+      "model": "sonnet",
+      "file": ".claude/skills/td-commerce-mobile/SKILL.md",
+      "capabilities": ["flutter", "dart", "widget-architecture", "state-management", "riverpod", "mobile-testing", "platform-integration", "responsive-design"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "td-commerce-web",
+      "name": "td-commerce Web Frontend",
+      "project": "td-commerce",
+      "domain": "frontend",
+      "model": "sonnet",
+      "file": ".claude/skills/td-commerce-web/SKILL.md",
+      "capabilities": ["react", "typescript", "vite", "zustand", "tanstack-query", "tailwind", "component-architecture", "web-testing", "responsive-design", "accessibility"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "td-commerce-backend",
+      "name": "td-commerce Backend",
+      "project": "td-commerce",
+      "domain": "backend",
+      "model": "sonnet",
+      "file": ".claude/skills/td-commerce-backend/SKILL.md",
+      "capabilities": ["nodejs", "typescript", "express", "rest-api", "prisma", "postgresql", "jwt-auth", "middleware", "error-handling"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "td-commerce-planner",
+      "name": "td-commerce Planner",
+      "project": "td-commerce",
+      "domain": "planning",
+      "model": "opus",
+      "file": ".claude/skills/td-commerce-planner/SKILL.md",
+      "capabilities": ["task-decomposition", "cross-skill-coordination", "dependency-mapping", "spec-generation", "risk-assessment", "implementation-sequencing", "data-contract-definition"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "td-commerce-e2e",
+      "name": "td-commerce E2E Testing",
+      "project": "td-commerce",
+      "domain": "test",
+      "model": "sonnet",
+      "file": ".claude/skills/td-commerce-e2e/SKILL.md",
+      "capabilities": ["puppeteer", "e2e-testing", "page-object-model", "visual-regression", "screenshot-capture", "test-reporting", "autonomous-testing", "browser-automation"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "performance-app-web",
+      "name": "performance-app Web Frontend",
+      "project": "performance-app",
+      "domain": "frontend",
+      "model": "sonnet",
+      "file": ".claude/skills/performance-app-web/SKILL.md",
+      "capabilities": ["vue3", "typescript", "webpack5", "vuex4", "vue-router4", "tanstack-query", "composition-api", "script-setup", "jest", "vue-test-utils", "eslint", "stylelint", "composables", "hrm-performance-domain"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "performance-app-planner",
+      "name": "performance-app Planner",
+      "project": "performance-app",
+      "domain": "planning",
+      "model": "opus",
+      "file": ".claude/skills/performance-app-planner/SKILL.md",
+      "capabilities": ["task-decomposition", "vue-spa-planning", "dependency-mapping", "spec-generation", "risk-assessment", "implementation-sequencing", "api-contract-review"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "performance-app-e2e",
+      "name": "performance-app E2E Testing",
+      "project": "performance-app",
+      "domain": "test",
+      "model": "sonnet",
+      "file": ".claude/skills/performance-app-e2e/SKILL.md",
+      "capabilities": ["puppeteer", "e2e-testing", "page-object-model", "screenshot-capture", "test-reporting", "autonomous-testing", "browser-automation", "vue-spa-testing"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "bcw-performance-web",
+      "name": "bcw-performance-management Web",
+      "project": "bcw-performance-management",
+      "domain": "frontend",
+      "model": "sonnet",
+      "file": ".claude/skills/bcw-performance-web/SKILL.md",
+      "capabilities": ["stencil", "typescript", "web-components", "stencil-store", "stencil-router", "jest", "jsdom", "component-architecture", "accessibility", "hr-appraisal-domain", "line-manager-domain", "criteria-metrics-domain"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "bcw-performance-planner",
+      "name": "bcw-performance-management Planner",
+      "project": "bcw-performance-management",
+      "domain": "planning",
+      "model": "opus",
+      "file": ".claude/skills/bcw-performance-planner/SKILL.md",
+      "capabilities": ["task-decomposition", "stencil-spa-planning", "dependency-mapping", "spec-generation", "risk-assessment", "implementation-sequencing", "api-contract-review", "web-component-api-design"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "bcw-performance-e2e",
+      "name": "bcw-performance-management E2E Testing",
+      "project": "bcw-performance-management",
+      "domain": "test",
+      "model": "sonnet",
+      "file": ".claude/skills/bcw-performance-e2e/SKILL.md",
+      "capabilities": ["puppeteer", "e2e-testing", "page-object-model", "screenshot-capture", "test-reporting", "autonomous-testing", "browser-automation", "stencil-spa-testing", "custom-element-readiness"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "micro-influx-web",
+      "name": "micro-influx Web Frontend",
+      "project": "micro-influx",
+      "domain": "frontend",
+      "model": "sonnet",
+      "file": ".claude/skills/micro-influx-web/SKILL.md",
+      "capabilities": ["nextjs", "react", "typescript", "app-router", "zustand", "tanstack-query", "tailwind", "ant-design", "socket-io", "zod", "component-architecture", "responsive-design", "accessibility", "real-time-messaging", "campaign-management"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "micro-influx-planner",
+      "name": "micro-influx Planner",
+      "project": "micro-influx",
+      "domain": "planning",
+      "model": "opus",
+      "file": ".claude/skills/micro-influx-planner/SKILL.md",
+      "capabilities": ["task-decomposition", "nextjs-spa-planning", "dependency-mapping", "spec-generation", "risk-assessment", "implementation-sequencing", "api-contract-review", "user-role-analysis"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "micro-influx-e2e",
+      "name": "micro-influx E2E Testing",
+      "project": "micro-influx",
+      "domain": "test",
+      "model": "sonnet",
+      "file": ".claude/skills/micro-influx-e2e/SKILL.md",
+      "capabilities": ["puppeteer", "e2e-testing", "page-object-model", "screenshot-capture", "test-reporting", "autonomous-testing", "browser-automation", "nextjs-testing", "two-sided-marketplace-flows"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "paydeet-web",
+      "name": "paydeet-merchant-app Web Frontend",
+      "project": "paydeet-merchant-app",
+      "domain": "frontend",
+      "model": "sonnet",
+      "file": "/Users/temidayoomoyajowo/development/paydeet-merchant-app/.claude/skills/paydeet-web/SKILL.md",
+      "capabilities": ["nextjs", "react", "typescript", "app-router", "tanstack-query", "tailwind", "shadcn-ui", "radix-ui", "react-hook-form", "zod", "next-auth", "jwt", "merchant-dashboard", "responsive-design", "accessibility"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "paydeet-planner",
+      "name": "paydeet-merchant-app Planner",
+      "project": "paydeet-merchant-app",
+      "domain": "planning",
+      "model": "opus",
+      "file": "/Users/temidayoomoyajowo/development/paydeet-merchant-app/.claude/skills/paydeet-planner/SKILL.md",
+      "capabilities": ["task-decomposition", "nextjs-spa-planning", "dependency-mapping", "spec-generation", "risk-assessment", "implementation-sequencing", "api-contract-review"],
+      "usage_count": 0,
+      "success_rate": null
+    },
+    {
+      "id": "paydeet-e2e",
+      "name": "paydeet-merchant-app E2E Testing",
+      "project": "paydeet-merchant-app",
+      "domain": "test",
+      "model": "sonnet",
+      "file": "/Users/temidayoomoyajowo/development/paydeet-merchant-app/.claude/skills/paydeet-e2e/SKILL.md",
+      "capabilities": ["puppeteer", "e2e-testing", "page-object-model", "screenshot-capture", "test-reporting", "autonomous-testing", "browser-automation", "nextjs-testing", "merchant-flows", "auth-testing"],
+      "usage_count": 0,
+      "success_rate": null
+    }
+  ]
+}

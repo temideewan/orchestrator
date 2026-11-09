@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Test coverage
+coverage/
+
+# Telegram session state (changes frequently, not meaningful to track)
+runtime/telegram_offset.txt
+runtime/telegram-session.json
+
+# macOS
+.DS_Store

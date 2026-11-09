@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "value_streams": [
+    {
+      "id": "td-commerce",
+      "name": "td-commerce",
+      "description": "Multi-platform commerce application with Flutter mobile, React web frontend, and Node.js backend",
+      "skills": ["td-commerce-planner", "td-commerce-mobile", "td-commerce-web", "td-commerce-backend", "td-commerce-e2e"],
+      "constraints_path": "projects/td-commerce/constraints/",
+      "state_path": "projects/td-commerce/project-state.md",
+      "repos": [],
+      "created": "2026-04-03"
+    },
+    {
+      "id": "performance-app",
+      "name": "performance-app",
+      "description": "Vue 3 SPA for SeamlessHR performance management — OKRs, appraisals, performance reviews, matrix appraisals, PIPs, exceptional achievements",
+      "skills": ["performance-app-planner", "performance-app-web", "performance-app-e2e"],
+      "constraints_path": "projects/performance-app/constraints/",
+      "state_path": "projects/performance-app/project-state.md",
+      "repos": ["/Users/temidayoomoyajowo/web_path/performance-app"],
+      "created": "2026-05-04"
+    },
+    {
+      "id": "bcw-performance-management",
+      "name": "bcw-performance-management",
+      "description": "Stencil.js Web Component SPA for BCW HR performance management — appraisal cycles, line manager dashboard, criteria metrics, policies, auth",
+      "skills": ["bcw-performance-planner", "bcw-performance-web", "bcw-performance-e2e"],
+      "constraints_path": "projects/bcw-performance-management/constraints/",
+      "state_path": "projects/bcw-performance-management/project-state.md",
+      "repos": ["/Users/temidayoomoyajowo/web_path/bcw-performance-management"],
+      "created": "2026-05-05"
+    },
+    {
+      "id": "paydeet-merchant-app",
+      "name": "paydeet-merchant-app",
+      "description": "Next.js 14 merchant dashboard for Paydeet payment processing — transactions, virtual accounts, reports, settings, and authentication",
+      "skills": ["paydeet-planner", "paydeet-web", "paydeet-e2e"],
+      "constraints_path": "/Users/temidayoomoyajowo/development/paydeet-merchant-app/constraints/",
+      "state_path": "/Users/temidayoomoyajowo/development/paydeet-merchant-app/project-state.md",
+      "repos": ["/Users/temidayoomoyajowo/development/paydeet-merchant-app"],
+      "created": "2026-08-16"
+    }
+  ]
+}
